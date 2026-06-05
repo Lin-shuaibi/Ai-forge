@@ -8,6 +8,8 @@ A modern web dashboard for managing VLLM (Very Large Language Model) inference c
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<img width="1910" height="1035" alt="image" src="https://github.com/user-attachments/assets/49a8b644-15cf-4018-9eda-3c68d716296f" />
+
 ## Features
 
 ### Cluster Management
